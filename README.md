@@ -25,6 +25,6 @@ Android Studio IDE <br/>
 ## NYA_Admin_App
 ![Screenshot](NYA_Admin_App1.PNG) 
 ![Screenshot](NYA_Admin_App2.PNG) 
-![Screenshot](NYA_Admin_App3.PNG) 
+![Screenshot](NYA_Admin_App3.PNG) <br/>
 Thanks
 ## All Copyrights are reserved by the owner.
