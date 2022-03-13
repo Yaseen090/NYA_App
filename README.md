@@ -17,12 +17,12 @@ Android Studio IDE <br/>
 
 ## Preview:
 ## NYA_Preparation_Quiz_App
-<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Admin_App1.PNG" width="210" height="400"></a>
-<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Admin_App2.PNG" width="210" height="400"></a>
-<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Admin_App3.PNG" width="210" height="400"></a>
-<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Admin_App4.PNG" width="210" height="400"></a>
-<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Admin_App5.PNG" width="210" height="400"></a>
-<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Admin_App6.PNG" width="210" height="400"></a>
+<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Preparation_Quiz_App1.PNG" width="210" height="400"></a>
+<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Preparation_Quiz_App2.PNG" width="210" height="400"></a>
+<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Preparation_Quiz_App3.PNG" width="210" height="400"></a>
+<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Preparation_Quiz_App4.PNG" width="210" height="400"></a>
+<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Preparation_Quiz_App5.PNG" width="210" height="400"></a>
+<a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Preparation_Quiz_App6.PNG" width="210" height="400"></a>
 ## NYA_Admin_App
 <a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Admin_App1.PNG" width="210" height="400"></a>
 <a><img src="https://github.com/Yaseen090/NYA_App/blob/main/NYA_Admin_App1.PNG" width="210" height="400"></a>
